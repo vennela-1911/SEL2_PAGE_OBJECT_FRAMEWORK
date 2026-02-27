@@ -1,0 +1,6 @@
+{
+  "pagesCreated": ["LoginPage", "DashboardPage"],
+  "testsCreated": 4,
+  "decoratorUsed": "capture_screenshot_on_fail",
+  "reusableHelpers": ["wait_for", "click", "type_text"]
+}
